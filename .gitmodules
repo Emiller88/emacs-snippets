@@ -1,0 +1,3 @@
+[submodule "solidity-mode"]
+	path = solidity-mode
+	url = git@github.com:Emiller88/Emacs-Solidity-Snippets.git
