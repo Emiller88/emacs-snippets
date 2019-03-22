@@ -8,7 +8,7 @@ rule ${1:Name}:
     output:
         \"${3:Output File}\"
     log:
-        \"logs/IMR/bowtie2/${1}.log\"
-    threads: ${4:4}
+        \"logs/${4:Name}.log\"
+    threads: ${5:4}
     shell:
         \"${0:Command}\"
