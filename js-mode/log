@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
 # name: console.log("...");
-# key: clo
+# key: clog
 # --
 console.log(`(%1)`$0)`(if (eolp) ";")`
