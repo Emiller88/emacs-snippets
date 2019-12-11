@@ -1,3 +1,6 @@
 [submodule "solidity-mode"]
 	path = solidity-mode
 	url = git@github.com:Emiller88/Emacs-Solidity-Snippets.git
+[submodule "js-mode/AVA"]
+	path = js-mode/AVA
+	url = git@github.com:Emiller88/emacs-ava-snippets.git
